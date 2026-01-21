@@ -9,10 +9,6 @@ YO WHAT'S UP?
 
 <h3 align="center">An avid explorer and adventurer</h3>
 
-- 🔭 I’m currently working on ** a 3D game**
-
-- 🌱 I’m currently learning : **ODIN PROJECT**
-
 - 💬 Ask me about : Mobile development, Game development, Web development **but mainly any business ideas**
 
 - 📫 How to reach me : **nerdyrumble29@gmail.com**
