@@ -5,7 +5,8 @@ YO WHAT'S UP?
 <img src="https://github.com/SoftwareMaintenanceEvolution/tutorial-1-rubab2000/blob/profile-upload/%D8%A3%D9%86%D8%A7.jpeg" alt="Alt Text" width="250"/>
 
 
-<h1 align="center">Hi 👋, I'm RUBAB</h1>
+<h1 align="center">👋</h1> 
+<h2> I'm RUBAB</h2>
 
 <h3 align="center">An avid explorer and adventurer</h3>
 
